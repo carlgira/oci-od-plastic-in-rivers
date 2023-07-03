@@ -7,7 +7,7 @@ I wrote a blog explaining how the service of data labeling and vision service wo
 
 I'll be using the plastic river dataset https://huggingface.co/datasets/Kili/plastic_in_river
 
-<img src="img/dataset-cover.png"/>
+<img src="imgs/dataset-cover.png"/>
 
 ## Initial Setup
 
