@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "oci-od-plastic-in-rivers"
+version = "0.1.0"
+description = ""
+authors = ["carlgira <carlgira@gmail.com>"]
+readme = "README.md"
+packages = [{include = "oci_od_plastic_in_rivers"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+matplotlib = "^3.7.1"
+jupyterlab = "^4.0.2"
+oci = "^2.105.0"
+datasets = "^2.13.1"
+numpy = "^1.25.0"
+opencv-python = "^4.8.0.74"
+ipywidgets = "^8.0.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
