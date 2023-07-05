@@ -5,7 +5,7 @@ The idea with this repository is to create a custom dataset, using the datalabel
 I wrote a blog explaining how the service of data labeling and vision service works https://medium.com/@carlgira/ai-vision-model-on-oci-for-object-detection-c47ac63114fc
 
 
-I'll be using the plastic river dataset https://huggingface.co/datasets/Kili/plastic_in_river
+I'll be using the plastic in river dataset https://huggingface.co/datasets/Kili/plastic_in_river
 
 <img src="imgs/dataset-cover.png"/>
 
